@@ -78,5 +78,7 @@ Restaurar para a área de preparação:
 git restore --staged caminho-do/arquivo
 ```
 
+Com o atalho "." do teclado, é possível abrir o editor online para mexer em seus arquivos no Github
+
 
 
